@@ -28,5 +28,3 @@ monitoring, rogue AP detection, and MITM analysis.
 - Google IT Support Certificate (Coursera)
 - TryHackMe Pre-Security Path
 
-## Contact
-[Your LLC email]
