@@ -1,16 +1,32 @@
-## Hi there 👋
+# IgrisOG — IT & Cybersecurity Portfolio
 
-<!--
-**Igrisog/igrisog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+IT professional and cybersecurity practitioner specializing in 
+wireless security auditing, malware analysis, and network defense.
+Owner of Hometown Tech Support
 
-Here are some ideas to get you started:
+## Skills
+- Wireless Security Auditing (Kali Linux, bettercap, aircrack-ng)
+- Malware Analysis (static and dynamic)
+- Network Penetration Testing
+- Rogue AP Detection and Defense
+- Linux System Administration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I Work With
+Kali Linux | Ghidra | Wireshark | bettercap | aircrack-ng | 
+Metasploit | TryHackMe | VirtualBox
+
+## Projects
+### Wi-Fi Security Audit Lab
+Built a portable wireless auditing platform capable of tri-band 
+monitoring, rogue AP detection, and MITM analysis.
+
+### Malware Analysis — Emotet Sample
+[Coming soon — in progress]
+
+## Certifications In Progress
+- Google IT Support Certificate (Coursera)
+- TryHackMe Pre-Security Path
+
+## Contact
+[Your LLC email]
